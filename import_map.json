@@ -1,6 +1,6 @@
 {
    "imports": {
-      "std/": "https://deno.land/std@0.55.0/",
-      "alosaur": "https://deno.land/x/alosaur@v0.19.4/mod.ts"
+      "std/": "https://deno.land/std@0.75.0/",
+      "alosaur": "https://deno.land/x/alosaur@v0.25.0/mod.ts"
    }
 }
